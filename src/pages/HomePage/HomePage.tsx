@@ -1,7 +1,7 @@
 import React from 'react';
 import Layout from '../../components/Layout/Layout';
 import Slider from '../../components/Slider/Slider';
-import CardList from '../../components/Cardlist/Cardlist';
+import CardList from '../../components/CardList/CardList';
 
 import SmartCamera from '../../components/SmartCamera/SmartCamera';
 import MessengerIntegration from '../../components/MessengerIntegration/MessengerIntegration';

@@ -1,6 +1,6 @@
 // components/PortalProducts/PortalProducts.tsx
 import React from 'react';
-import styles from './PortalProducts.module.css';
+import styles from './Cards.module.css';
 
 interface CardProps {
   id: number;

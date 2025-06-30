@@ -1,7 +1,7 @@
 
 import React, { useState, useEffect } from 'react';
-import Card from '../PortalProducts/PortalProducts';
-import styles from './Cardlict.module.css';
+import Card from '../Cards/Cards';
+import styles from './CardLict.module.css';
 
 const CardList: React.FC = () => {
   const [cards, setCards] = useState<any[]>([]);
